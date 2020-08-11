@@ -1,6 +1,6 @@
-# Cartoonizer
+# Film Cartoonization Using WhiteBox
 
-> Convert images and videos into a cartoon!
+Convert images and videos into a cartoon within seconds!
 
 The webapp is deployed here - https://cartoonize-lkqov62dia-de.a.run.app
 
@@ -78,15 +78,11 @@ python app.py
 
 ## License
 
-1. Copyright © Cartoonizer ([Demo webapp](https://cartoonize-lkqov62dia-de.a.run.app/))
+Copyright © CartoonIt ([Demo webapp](https://cartoonize-lkqov62dia-de.a.run.app/))
 
-    - Authors: [Niraj Pandkar](https://twitter.com/Niraj_pandkar) and [Tejas Mahajan](https://twitter.com/tjdevWorks).
+    - Authors: [Vedant Ghodke](https://twitter.com/VedantGhodke_)
 
     - Licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) 
     - Commercial application is prohibited by license
-
-
-2. Copyright (C) Xinrui Wang, Jinze Yu. ([White box cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization))
-    - All rights reserved. 
-    - Licensed under the CC BY-NC-SA 4.0 
-    - Also, Commercial application is prohibited license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+    
+    
